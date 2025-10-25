@@ -1,0 +1,9 @@
+crewai==0.74.*
+requests==2.32.*
+python-dotenv==1.0.*
+cachetools==5.5.*
+pydantic==2.9.*
+python-dateutil==2.9.*
+fastapi==0.115.*
+uvicorn==0.30.*
+structlog==24.*
